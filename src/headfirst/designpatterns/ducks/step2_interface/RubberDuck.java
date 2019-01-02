@@ -1,6 +1,6 @@
 package headfirst.designpatterns.ducks.step2_interface;
 
-public class RubberDuck implements Duck, Squeak {
+public class RubberDuck implements Duck, Squeakable {
 
     @Override
     public void swim() {

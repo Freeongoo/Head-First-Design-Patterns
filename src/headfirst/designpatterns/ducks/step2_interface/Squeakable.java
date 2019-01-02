@@ -1,5 +1,5 @@
 package headfirst.designpatterns.ducks.step2_interface;
 
-public interface Squeak {
+public interface Squeakable {
     void squeak();
 }

@@ -24,8 +24,8 @@ public class Main {
                 ((Quackable)d).quack();
             }
 
-            if (d instanceof Squeak) {
-                ((Squeak)d).squeak();
+            if (d instanceof Squeakable) {
+                ((Squeakable)d).squeak();
             }
         });
     }
